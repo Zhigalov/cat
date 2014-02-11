@@ -1,0 +1,3 @@
+[submodule "second"]
+	path = second
+	url = git://github.com/Zhigalov/dog.git
